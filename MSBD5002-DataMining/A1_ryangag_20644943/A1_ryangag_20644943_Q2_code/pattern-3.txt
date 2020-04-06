@@ -1,0 +1,9 @@
+1074	database
+928	system
+743	knowledge
+558	learning
+514	data
+506	logic
+493	reasoning
+446	model
+426	constraint

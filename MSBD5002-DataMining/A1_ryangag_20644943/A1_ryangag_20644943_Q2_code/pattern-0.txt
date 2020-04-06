@@ -1,0 +1,10 @@
+1288	data
+1163	mining
+1087	algorithm
+720	graph
+560	time
+528	pattern
+509	tree
+488	efficient
+416	rule
+413	mining data

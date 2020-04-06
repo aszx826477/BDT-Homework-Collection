@@ -1,0 +1,9 @@
+1713	query
+1163	database
+1040	data
+767	system
+637	processing
+567	distributed
+528	object
+508	efficient
+458	xml

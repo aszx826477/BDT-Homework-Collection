@@ -1,0 +1,4 @@
+233	rule association
+230	random
+227	finding
+203	mining pattern
