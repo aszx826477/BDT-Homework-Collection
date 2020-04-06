@@ -1,0 +1,5 @@
+*.pyc
+./idea/
+peer/
+test.py
+*.pyc
